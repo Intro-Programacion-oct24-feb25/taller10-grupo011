@@ -1,5 +1,7 @@
 # Taller 10 (Laboratorio):
 ## Construcción de programas usando arreglos bidimensionales
+### Jefferon Paredes
+### Pablo Ordóñez
 
 * Lenguaje de programación : Java
 * IDE de programación : Netbeans
