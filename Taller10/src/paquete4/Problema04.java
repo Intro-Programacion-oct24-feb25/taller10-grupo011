@@ -4,21 +4,18 @@
  * and open the template in the editor.
  */
 package paquete4;
-
+import java.util.Scanner;
 /**
  *
  * @author reroes
  */
 public class Problema04 {
     public static void main(String[] args) {
-       
-        double[][] datos = new double[2][2];
+       Scanner entrada = new java.util.Scanner(System.in);
+        
+       double[][] datos = new double[2][2];
         int contadorFueraDeRango = 0;
-        
-        
-        java.util.Scanner entrada = new java.util.Scanner(System.in);
-
-        
+       
         for (int i = 0; i < 2; i++) {
             for (int j = 0; j < 2; j++) {
                 System.out.println("Ingrese un valor para la posición "
