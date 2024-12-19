@@ -1,6 +1,6 @@
 # Taller 10 (Laboratorio):
 ## Construcción de programas usando arreglos bidimensionales
-### Jefferon Paredes
+### Jefferson Paredes
 ### Pablo Ordóñez
 
 * Lenguaje de programación : Java
