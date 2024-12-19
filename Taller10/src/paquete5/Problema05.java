@@ -37,7 +37,7 @@ public class Problema05 {
         }
 
         
-        System.out.println(acumulador);
+        System.out.printf("%s", acumulador);
     }
 }
 
