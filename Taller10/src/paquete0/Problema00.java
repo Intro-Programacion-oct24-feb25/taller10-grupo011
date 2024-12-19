@@ -26,12 +26,12 @@ public class Problema00 {
                 suma = suma + notas[i][j];
                      
             }
-            sumaNotas[i] = suma; // 
+            sumaNotas[i] = suma/4; // 
         }
         
         // Presentación de resultados
         for (int i = 0; i < nombresEstudiante.length; i++) {
-            reporte = String.format("%sEstudiante %s tiene una sumataria "
+            reporte = String.format("%sEstudiante: %s tiene una sumataria "
                     + "de notas: %.3f\n",
                     reporte,
                     nombresEstudiante[i],
